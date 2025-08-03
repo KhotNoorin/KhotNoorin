@@ -1,5 +1,3 @@
-# 👩‍💻 Noorin Nasir Khot
-
 Hello! I'm **Noorin Nasir Khot**, currently pursuing an **M.Tech in Computer Science & Engineering** at **IIIT Kota**, with a specialization in **Artificial Intelligence & Data Science**.  
 
 I use AI to create innovative, real-world solutions that make a meaningful impact.  
