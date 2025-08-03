@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Noorin Nasir Khot
 
-<!--
-**KhotNoorin/KhotNoorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Noorin Nasir Khot**, currently pursuing an **M.Tech in Computer Science & Engineering** at **IIIT Kota**, with a specialization in **Artificial Intelligence & Data Science**.  
 
-Here are some ideas to get you started:
+I use AI to create innovative, real-world solutions that make a meaningful impact.  
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Machine Learning & Deep Learning  
+- 🤖 Reinforcement Learning  
+- 💬 Natural Language Processing (NLP)  
+- 🦙 Large Language Models (LLMs)  
+- 🎨 Generative AI
+- 
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://linkedin.com/in/noorin-khot-1b7127211)
+- 📧 [Email](mailto:2024kpad1007@iiitkota.ac.in)
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaboration or opportunities.*
