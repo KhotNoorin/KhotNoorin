@@ -8,7 +8,7 @@ My interests include:
 - 💬 Natural Language Processing (NLP)  
 - 🦙 Large Language Models (LLMs)  
 - 🎨 Generative AI
-- 
+  
 ---
 
 ## 📫 Connect with Me
