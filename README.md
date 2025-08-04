@@ -3,11 +3,11 @@ Hello! I'm **Noorin Nasir Khot**, currently pursuing an **M.Tech in Computer Sci
 I use AI to create innovative, real-world solutions that make a meaningful impact.  
 My interests include:
 
-- 🧠 Machine Learning & Deep Learning  
-- 🤖 Reinforcement Learning  
-- 💬 Natural Language Processing (NLP)  
+- 🧠 Machine Learning & Deep Learning
 - 🦙 Large Language Models (LLMs)  
+- 💬 Natural Language Processing (NLP)   
 - 🎨 Generative AI
+- 🤖 Reinforcement Learning  
   
 ---
 
